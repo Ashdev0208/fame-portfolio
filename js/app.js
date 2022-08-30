@@ -76,9 +76,9 @@ window.addEventListener("DOMContentLoaded", () => {
   }
   //   slider
   let slideText = [
-      `“I’m in love with Richard Gore’s novels! His literature style is very engaging and full of humour! I’m looking forward to visit his presentation of the latest book. I his characters I recognize my own features and situations I faced. I share his love to city’s romance as I’m a true New Yorker!”`,
-      `“The last Richard’s book is brilliant! Absolutely showcasing modern American reality and people’s characters. His young and rebellious mind together with sharp mind and observation skills create iconic literature works. I wish good luck to Mr. Gore in his long road in US literature!” `,
-      `“Richard Gore is a talented young writer who creates exciting stories engaging people to think about their nowadays urban life. He is able to depict person’s inner world and their feelings in the most exciting way. Richard Gore has a chance to establish a new wave in American literature.” `,
+      `“Hello everyone, the video made for my names turned out very well”`,
+      `“the picture that fame made for me is really cool and makes superman's face look so much like mine.”`,
+      `“Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque eveniet sequi maiores laborum quibusdam ullam, error quam ipsam qui quos!”`,
     ],
     names = [
       `abdulayev Jahon`,
