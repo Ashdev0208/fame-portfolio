@@ -362,6 +362,9 @@ section.newWork {
   flex-wrap: nowrap;
   transition: 0.6s ease all;
 }
+.content{
+  width: 100%;
+}
 .arrow {
   position: absolute;
   bottom: 10px;
